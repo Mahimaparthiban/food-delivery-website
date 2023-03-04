@@ -1,1 +1,3 @@
 # food-delivery-website
+The purpose of this SRS is to outline both the functional and non-functional requirements of the subject Restaurant food ordering system. In addition to said requirements, the document also provides a detailed profile of the external interfaces, performance considerations and design constraints imposed on the subsequent implementation. The document should act as a foundation for efficient and well-managed project completion and further serve as an accurate reference in the future.
+![image](https://user-images.githubusercontent.com/124603128/222886372-99dbaef5-b84f-42fe-8ee3-32d854e6645b.png)
